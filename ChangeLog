@@ -1,0 +1,5 @@
+ChangeLog
+
+2021-02-21: foliagecanine
+	* Create modified version of GCC and Binutils
+	* Create sh scripts to build GCC and Binutils
