@@ -1,5 +1,5 @@
 # tritium-compiler
-GCC and Binutils build script for (https://github.com/foliagecanine/tritium-os)[TritiumOS] (i686-tritium)
+GCC and Binutils build script for [TritiumOS](https://github.com/foliagecanine/tritium-os) (i686-tritium)
 
 ## Building i686-tritium
 Install required dependencies. On Debian-based systems, these can be installed with
