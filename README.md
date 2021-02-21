@@ -10,5 +10,5 @@ Then run
 to build the tools. They will be installed to "$HOME/opt/cross".  
 If you wish to change the output directory, change all instances of "$HOME/opt/cross" to your desired destination.  
   
-Original (unmodified) Binutils is available at https://ftp.gnu.org/gnu/binutils/binutils-2.31.1.tar.xz
+Original (unmodified) Binutils is available at https://ftp.gnu.org/gnu/binutils/binutils-2.31.1.tar.xz  
 Original (unmodified) GCC is available at https://ftp.gnu.org/gnu/gcc/gcc-7.3.0/gcc-7.3.0.tar.xz
