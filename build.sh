@@ -19,7 +19,7 @@ cd gcc-7.3.0
 mkdir -p build-gcc
 cd build-gcc
 rm -rf *
-../configure --build=x86_64 --host=x86_64 --target=i686-tritium --prefix=$HOME/opt/cross --enable-languages=c --without-isl
+../configure --build=x86_64 --host=x86_64 --target=i686-tritium --prefix=$HOME/opt/cross --enable-languages=c,c++ --without-isl
 make all-gcc -j`nproc`
 make install-gcc
 make all-target-libgcc

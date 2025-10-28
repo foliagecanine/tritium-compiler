@@ -1,5 +1,8 @@
 ChangeLog
 
+2025-10-06: foliagecanine
+	* Add C++ language support
+
 2021-02-21: foliagecanine
 	* Create modified version of GCC and Binutils
 	* Create sh scripts to build GCC and Binutils
